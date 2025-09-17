@@ -4,7 +4,7 @@ title: "assignment-3-brt43"
 
 Assignment 3 Website
 
-Author: Bridget Tweedie, github repo: <https://github.com/brt1143.git>
+Author: Bridget Tweedie, github repo: <https://github.com/brt1143/assignment-3-brt43>
 
 Collaborator: Anna Melhorn, github: <https://github.com/annamehl02.git>
 
