@@ -4,8 +4,8 @@ title: "assignment-3-brt43"
 
 Assignment 3 Website
 
-Author: Bridget Tweedie, github repo: <https://github.com/brt1143/assignment-3-brt43.git>
+Author: Bridget Tweedie, github repo: <https://github.com/brt1143.git>
 
-Collaborator: Anna Melhorn, github repo: <https://github.com/annamehl02/website-2.git>
+Collaborator: Anna Melhorn, github: <https://github.com/annamehl02.git>
 
 ![Pictured above is a male Black-throated Blue Warbler in photographers grip. This is my dissertation study species, located in the Hubbard Brook Experimental Forest in New Hampshire.](images/20250612-hubbard-brook-rg-174.jpg)
